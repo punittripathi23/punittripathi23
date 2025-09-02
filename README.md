@@ -59,9 +59,9 @@ A modern portfolio site to showcase my skills and projects.
 ---
 
 ## 📬 Connect With Me  
-- 💼 [LinkedIn](https://www.linkedin.com/)  
-- 👨‍💻 [GeeksforGeeks](https://auth.geeksforgeeks.org/user/)  
-- 🏆 [CodeChef](https://www.codechef.com/users/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/sonu-tripathi-117217263/)  
+- 👨‍💻 [GeeksforGeeks](https://www.geeksforgeeks.org/user/punittripathi230)  
+- 🏆 [CodeChef](https://www.codechef.com/users/punittripathi2)  
 - 🌐 Portfolio: *Coming Soon*  
 
 ---
