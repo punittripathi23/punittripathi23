@@ -1,17 +1,17 @@
-# Hi 👋, I'm Sonu Tripathi  
+# Hi , I'm Sonu Tripathi  
 💻 A Passionate Frontend Developer & Problem Solver from India  
 
 ---
 
-## 🧑‍💻 About Me  
-- 🌱 I’m currently learning **React, Tailwind CSS, and Advanced JavaScript**  
-- 🔭 I’m working on my **Portfolio Website (React + Tailwind CSS)**  
-- 🎯 I regularly practice **DSA in C++ on GFG & CodeChef**  
-- 🛠️ I have built projects like:  
-  - ✅ To-Do Application  
-  - 🌗 Theme Toggle App  
-  - 🎮 DOM Manipulation Practice Projects  
-  - ⚡ Async/Await & Promises Practice  
+##  About Me  
+-  I’m currently learning **React, Tailwind CSS, and Advanced JavaScript**  
+-  I’m working on my **Portfolio Website (React + Tailwind CSS)**  
+-  I regularly practice **DSA in C++ on GFG & CodeChef**  
+-  I have built projects like:  
+  -  To-Do Application  
+  -  Theme Toggle App  
+  -  DOM Manipulation Practice Projects  
+  -  Async/Await & Promises Practice  
 
 ---
 
@@ -35,7 +35,7 @@ A modern portfolio site to showcase my skills and projects.
 
 ---
 
-## 🛠️ Tech Stack  
+##  Tech Stack  
 
 ### Frontend  
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
@@ -58,12 +58,12 @@ A modern portfolio site to showcase my skills and projects.
 
 ---
 
-## 📬 Connect With Me  
-- 💼 [LinkedIn](https://www.linkedin.com/in/sonu-tripathi-117217263/)  
-- 👨‍💻 [GeeksforGeeks](https://www.geeksforgeeks.org/user/punittripathi230)  
-- 🏆 [CodeChef](https://www.codechef.com/users/punittripathi2)  
-- 🌐 Portfolio: *Coming Soon*  
+##  Connect With Me  
+-  [LinkedIn](https://www.linkedin.com/in/sonu-tripathi-117217263/)  
+-  [GeeksforGeeks](https://www.geeksforgeeks.org/user/punittripathi230)  
+-  [CodeChef](https://www.codechef.com/users/punittripathi2)  
+-  Portfolio: *Coming Soon*  
 
 ---
 
-⭐ **Fun Fact**: I believe in growing by balancing **DSA + Development** 🚀
+⭐ **Fun Fact**: I believe in growing by balancing **DSA + Development** 
