@@ -4,14 +4,14 @@
 ---
 
 ##  About Me  
-  I’m currently learning **React, Tailwind CSS, and Advanced JavaScript**  
-  I’m working on my **Portfolio Website (React + Tailwind CSS)**  
-  I regularly practice **DSA in C++ on GFG & CodeChef**  
-  I have built projects like:  
-    To-Do Application  
-    Theme Toggle App  
-    DOM Manipulation Practice Projects  
-    Async/Await & Promises Practice  
+ . I’m currently learning **React, Tailwind CSS, and Advanced JavaScript**  
+ . I’m working on my **Portfolio Website (React + Tailwind CSS)**  
+ . I regularly practice **DSA in C++ on GFG & CodeChef**  
+ . I have built projects like:  
+ .   To-Do Application  
+ .   Theme Toggle App  
+ .   DOM Manipulation Practice Projects  
+ .   Async/Await & Promises Practice  
 
 ---
 
